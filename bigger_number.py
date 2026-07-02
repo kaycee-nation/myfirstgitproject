@@ -4,3 +4,4 @@ if num>num2:
     greater=num
 else:
     greater=num2
+
